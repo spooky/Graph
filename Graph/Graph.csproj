@@ -3,6 +3,21 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <Nullable>enable</Nullable>
+    <Authors>Krzysztof Szczęsny</Authors>
+    <Description>Utilities for operating graph structures</Description>
+    <Copyright>2022</Copyright>
+    <PackageProjectUrl>https://github.com/spooky/Graph</PackageProjectUrl>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <RepositoryUrl>https://github.com/spooky/Graph</RepositoryUrl>
+    <PackageTags>graph, Tarjan, Johnson</PackageTags>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\README.md">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
 
 </Project>
