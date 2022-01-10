@@ -6,6 +6,7 @@
     <Authors>Krzysztof Szczęsny</Authors>
     <Description>Utilities for operating graph structures</Description>
     <Copyright>2022</Copyright>
+    <PackageId>GraphOps</PackageId>
     <PackageProjectUrl>https://github.com/spooky/Graph</PackageProjectUrl>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <RepositoryUrl>https://github.com/spooky/Graph</RepositoryUrl>
